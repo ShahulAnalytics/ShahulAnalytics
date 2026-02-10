@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Shahul 👋
 
-<!--
-**ShahulAnalytics/ShahulAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Analyst | Python • SQL • Power BI  
+📍 India  
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Power BI
+- Excel
+- GenAI + Automation (n8n)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 What I Do
+- Data Cleaning & Transformation  
+- Business KPI Analysis  
+- Dashboard Development  
+- Workflow Automation  
+
+📌 Current Focus
+- Advanced SQL  
+- Real-world Business Case Studies  
+- End-to-End Analytics Projects  
+
+📫 Connect With Me
+📧 shahul.analytics@gmail.com
