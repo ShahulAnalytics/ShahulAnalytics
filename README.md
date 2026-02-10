@@ -1,6 +1,6 @@
 Hi, I'm Shahul 👋
 
-🚀 Data Analyst | Python • SQL • Power BI  
+🚀 Data Analyst | Analytics + Automation Specialist
 📍 India  
 
 🛠 Tech Stack
