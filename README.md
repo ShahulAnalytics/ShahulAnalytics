@@ -14,25 +14,16 @@ I'm interested in engineering reliable AI applications that combine business dat
 - **AI Application Engineering:** FastAPI, REST endpoints, LangSmith tracing, Git, GitHub
 - **Workflow Automation:** n8n, LLM-assisted classification, lead prioritisation, conditional routing, human review workflows
 
-## Selected Projects
+## Featured Projects
 
-### Document Q&A — RAG Application
-A local document-question-answering application using Python, LangChain, sentence embeddings, FAISS retrieval, a Groq-hosted LLM, and FastAPI.
+### AI + Analytics
+- **[E-Commerce AI Profitability Optimization System](https://github.com/ShahulAnalytics/ecommerce-ai-analytics)** — Portfolio project combining n8n workflow orchestration, PostgreSQL, KPI analytics, LLM-assisted insights, and business alerts. Review the repository documentation for architecture, setup and sample-data scope.
+- **[Sales Analytics Dashboard](https://github.com/ShahulAnalytics/sales-dashboard)** — Python, SQL/SQLite, Pandas, Streamlit and Plotly dashboard for revenue, profit, product, region and sales-channel analysis.
+- **[File Handling Management System](https://github.com/ShahulAnalytics/file-handling-management-system)** — Python console application demonstrating file operations, functions, error handling and standard-library usage.
 
-- Builds a retrieval flow to find relevant context for user questions.
-- Exposes `/ask` and `/health` endpoints through FastAPI.
-- Uses LangSmith tracing to inspect application runs.
-- **Next milestone:** create an evaluation dataset for retrieval relevance, grounded answers, and unsupported responses.
-
-### AI Lead Qualification Workflow
-An n8n workflow designed and tested for LLM-assisted lead analysis, classification, prioritisation, and routing toward follow-up or human review.
-
-- Organises repeatable workflow steps and decision paths.
-- Focuses on clear handoffs and human review for outcomes requiring attention.
-- Live CRM integration and production deployment are not claimed.
-
-### Data Analytics Projects
-Analytics and dashboard projects focused on structured reporting, KPI tracking, data preparation, and business insights. See the public repositories on this profile for individual project details.
+### Current AI Engineering Projects
+- **Document Q&A RAG Application:** Local project using Python, LangChain, sentence embeddings, FAISS retrieval, a Groq-hosted LLM, FastAPI `/ask` and `/health` endpoints, and LangSmith tracing. The evaluation dataset is a planned next milestone.
+- **AI Lead Qualification Workflow:** n8n workflow designed and tested for LLM-assisted lead analysis, classification, prioritisation, and routing toward follow-up or human review. Live CRM integration and production deployment are not claimed.
 
 ## Current Engineering Focus
 
