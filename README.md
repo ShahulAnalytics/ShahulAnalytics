@@ -1,50 +1,51 @@
-Shahul M
-Data Analyst
+# Shahul M
 
-Transforming raw business data into structured insights, KPI dashboards, and automated reporting systems.
+## Data Science | Generative AI | Agentic AI Engineering
 
-Data Analyst specializing in SQL performance optimization, analytics automation, and executive-level dashboard development.
+Data and AI professional with 3.5+ years of experience across data analysis, Python, SQL, Power BI, and Excel reporting. My current technical focus is building practical Generative AI and Agentic AI applications, supported by a foundation in analytics and data workflows.
 
-Based in India  
-Focused on real-world business analytics implementation  
-Building systems that drive measurable business impact  
+I'm interested in engineering reliable AI applications that combine business data, LLMs, retrieval, and workflow automation.
 
+## Technical Skills
 
-Technology Stack
+- **Programming & Data:** Python, SQL, PostgreSQL, Pandas, NumPy, data cleaning, exploratory data analysis (EDA), data validation
+- **Data Science & BI:** Machine learning fundamentals, feature preparation, KPI reporting, Power BI, Excel, Power Query
+- **Generative AI & RAG:** LLM integration, prompt engineering fundamentals, sentence embeddings, vector search, Retrieval-Augmented Generation (RAG), LangChain, FAISS, Groq
+- **AI Application Engineering:** FastAPI, REST endpoints, LangSmith tracing, Git, GitHub
+- **Workflow Automation:** n8n, LLM-assisted classification, lead prioritisation, conditional routing, human review workflows
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+## Selected Projects
 
-Results Snapshot
+### Document Q&A — RAG Application
+A local document-question-answering application using Python, LangChain, sentence embeddings, FAISS retrieval, a Groq-hosted LLM, and FastAPI.
 
-• Automated reporting workflows using Python to reduce manual effort  
-• Improved reporting efficiency through optimized SQL queries  
-• Designed KPI dashboards tracking revenue, growth, and operational performance  
-• Built structured analytics frameworks for decision support  
+- Builds a retrieval flow to find relevant context for user questions.
+- Exposes `/ask` and `/health` endpoints through FastAPI.
+- Uses LangSmith tracing to inspect application runs.
+- **Next milestone:** create an evaluation dataset for retrieval relevance, grounded answers, and unsupported responses.
 
+### AI Lead Qualification Workflow
+An n8n workflow designed and tested for LLM-assisted lead analysis, classification, prioritisation, and routing toward follow-up or human review.
 
-Core Expertise
+- Organises repeatable workflow steps and decision paths.
+- Focuses on clear handoffs and human review for outcomes requiring attention.
+- Live CRM integration and production deployment are not claimed.
 
-• KPI Dashboard Development  
-• SQL Query Optimization  
-• Business Performance Analysis  
-• Workflow Automation  
-• End-to-End Analytics Implementation  
+### Data Analytics Projects
+Analytics and dashboard projects focused on structured reporting, KPI tracking, data preparation, and business insights. See the public repositories on this profile for individual project details.
 
+## Current Engineering Focus
 
-Currently Building
+- Agent orchestration, tool/function calling, and state management
+- RAG evaluation and answer groundedness
+- Automated testing, error handling, and observability
+- Secure and deployable AI applications
+- Applying machine learning and analytics to practical business problems
 
-Enterprise Sales Intelligence System  
+## Connect
 
-End-to-end analytics solution integrating SQL, Python, and BI tools  
-Focused on automation, KPI tracking, and scalable reporting architecture  
+- **LinkedIn:** https://www.linkedin.com/in/shahul-m-119240239
+- **GitHub:** https://github.com/ShahulAnalytics
+- **Location:** Coimbatore, Tamil Nadu, India
 
-
-Contact
-
-shahul.analytics@gmail.com  
-Open to Data Analyst opportunities
+> Project descriptions reflect current implementation status. Evaluation, production deployment, and external integrations will be documented after they are implemented and verified.
